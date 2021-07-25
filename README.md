@@ -1,5 +1,5 @@
 # Access it here - https://spacex-launches-yt.vercel.app/
-## Click on any to redirect to the Youtube where the launches are shown!
+## Click on any to redirect to Youtube where the launches are shown!
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
